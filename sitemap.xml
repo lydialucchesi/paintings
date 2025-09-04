@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://lydialucchesi.github.io/paintings/</loc>
+    <lastmod>2025-09-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+
+    <image:image>
+      <image:loc>https://lydialucchesi.github.io/paintings/the-banana-peel-lydia-lucchesi.jpg</image:loc>
+      <image:caption>The Banana Peel painting by Lydia R. Lucchesi</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://lydialucchesi.github.io/paintings/a-chicken-running-down-stairs-lydia-lucchesi.jpg</image:loc>
+      <image:caption>A Chicken Running Down Stairs painting by Lydia R. Lucchesi</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://lydialucchesi.github.io/paintings/squirrel-lydia-lucchesi.jpg</image:loc>
+      <image:caption>Squirrel painting by Lydia R. Lucchesi</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://lydialucchesi.github.io/paintings/notes-lydia-lucchesi.jpg</image:loc>
+      <image:caption>Notes painting by Lydia R. Lucchesi</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://lydialucchesi.github.io/paintings/green-lamp-lydia-lucchesi.jpg</image:loc>
+      <image:caption>Green Lamp painting by Lydia R. Lucchesi</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://lydialucchesi.github.io/paintings/prairie-lydia-lucchesi.jpg</image:loc>
+      <image:caption>Prairie painting by Lydia R. Lucchesi</image:caption>
+    </image:image>
+
+  </url>
+
+</urlset>
